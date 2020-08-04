@@ -1,14 +1,14 @@
 import React from "react";
 import "./App.css";
-import Wrapper from "./components/Wrapper/wrapper";
+import Wrapper from "./components/Search/Search";
 import Header from "./components/Header/Header";
 
 
 function App() {
   return (
     <>
-    <Wrapper></Wrapper>
     <Header></Header>
+    <Search></Search>
     </>
   );
 }
