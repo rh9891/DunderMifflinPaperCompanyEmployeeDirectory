@@ -1,11 +1,12 @@
 import React from "react";
-import "./Header.css";
+import "./header.css";
 
 function Header() {
     return(
-        <>
-        
-        </>
+        <div className="jumbotron jumbotron-fluid" id="jumbotron">
+        <div className="container">
+        </div>
+        </div>
     )
 };
 
