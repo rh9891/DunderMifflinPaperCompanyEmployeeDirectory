@@ -7,6 +7,10 @@ import Table from "./components/Table/Table";
 import employees from "../src/employees.json";
 
 function App() {
+  // const [searchTerm, setSearchTerm] = React.useState("");
+  // const handleChange = event => {
+  //   setSearchTerm(event.target.value);
+  // };
 
     return (
       <Wrapper>
