@@ -15,14 +15,14 @@ function Table(props) {
                 </tr>
             </thead>
             <tbody>
-                {props.employees.map(employee =>
+                {props.employees.map(employee => (
                 <TableData
-                    // id={employees.id}
+                    // id={employee.id}
                     key={employee.id}
                     image={employee.image}
                     name={employee.name}
                     department={employee.department}
-                    branch={employee.branch} />)}
+                    branch={employee.branch} />))}
             </tbody>
         </table>
     )
