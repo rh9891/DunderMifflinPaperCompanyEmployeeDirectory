@@ -1,7 +1,7 @@
 import React from "react";
 import "./search.css";
 
-function Search() {
+function Search(props) {
     return(
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark" id="searchBar">
         <span id="directoryTitle">EMPLOYEE DIRECTORY</span>
@@ -15,4 +15,4 @@ function Search() {
     )
 }
 
-export default Search
+export default Search;

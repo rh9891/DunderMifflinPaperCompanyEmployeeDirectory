@@ -1,27 +1,29 @@
 import React from "react";
 import "./table.css";
+import TableData from "../TableData/TableData";
 
 function Table(props) {
     return (
         <table className="table table-striped table-hover table-dark">
-        <thead>
-            <tr>
-            <th scope="col"></th>
-            <th scope="col">Name</th>
-            <th scope="col">Email</th>
-            <th scope="col">Department</th>
-            <th scope="col">Branch</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-            <th scope="row"><img src={props.image} alt={props.name} className="rounded-circle"/></th>
-            <td>{props.name}</td>
-            <td>{props.email}</td>
-            <td>{props.department}</td>
-            <td>{props.branch}</td>
-            </tr>
-        </tbody>
+            <thead>
+                <tr>
+                <th scope="col"></th>
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Department</th>
+                <th scope="col">Branch</th>
+                </tr>
+            </thead>
+            <tbody>
+                {props.employees.map(employee =>
+                <TableData
+                    // id={employees.id}
+                    key={employee.id}
+                    image={employee.image}
+                    name={employee.name}
+                    department={employee.department}
+                    branch={employee.branch} />)}
+            </tbody>
         </table>
     )
 }
