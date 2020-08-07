@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Michael Scott",
-    "image": "public/employeePhotos/michaelScott.jpg",
+    "image": "public/employeePhotos/michaelScott",
     "email": "mscott@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Scranton"
