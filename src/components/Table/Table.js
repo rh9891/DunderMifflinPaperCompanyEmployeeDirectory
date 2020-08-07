@@ -1,12 +1,12 @@
 import React from "react";
 import "./table.css";
 
-function Table() {
+function Table(props) {
     return (
-        <table class="table table-striped table-hover table-dark">
+        <table className="table table-striped table-hover table-dark">
         <thead>
             <tr>
-            <th scope="col">#</th>
+            <th scope="col"></th>
             <th scope="col">Name</th>
             <th scope="col">Email</th>
             <th scope="col">Department</th>
@@ -15,15 +15,15 @@ function Table() {
         </thead>
         <tbody>
             <tr>
-            <th scope="row">1</th>
-            <td>John Smith</td>
-            <td>jsmith@dundermifflin.com</td>
-            <td>Sales</td>
-            <td>New York</td>
+            <th scope="row"><img src={props.image} alt={props.name} className="rounded-circle"/></th>
+            <td>{props.name}</td>
+            <td>{props.email}</td>
+            <td>{props.department}</td>
+            <td>{props.branch}</td>
             </tr>
         </tbody>
         </table>
     )
 }
 
-export default Table
+export default Table;

@@ -2,377 +2,385 @@
   {
     "id": 1,
     "name": "Michael Scott",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/michaelScott.jpg",
+    "email": "mscott@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Scranton"
   },
   {
     "id": 2,
     "name": "Dwight Schrute",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/dwightSchrute.jpg",
+    "email": "dschrute@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 3,
     "name": "James Halpert",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/jimHalpert.jpg",
+    "email": "jhalpert@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 4,
     "name": "Pamela Beesly",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/pamBeesly.jpg",
+    "email": "pbeesly@dundermifflin.com",
+    "department": "Reception",
+    "branch": "Scranton"
   },
   {
     "id": 5,
     "name": "Kelly Kapoor",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/kellyKapoor.jpg",
+    "email": "kkapoor@dundermifflin.com",
+    "department": "Customer Service",
+    "branch": "Scranton"
   },
   {
     "id": 6,
     "name": "Ryan Howard",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/ryanHoward.jpg",
+    "email": "rhoward@dundermifflin.com",
+    "department": "Temping Agency",
+    "branch": "Scranton"
   },
   {
     "id": 7,
     "name": "Toby Flenderson",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/tobyFlenderson.jpg",
+    "email": "tflenderson@dundermifflin.com",
+    "department": "Human Resources",
+    "branch": "Scranton"
   },
   {
     "id": 8,
     "name": "Creed Bratton",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/creedBratton.jpg",
+    "email": "cbratton@dundermifflin.com",
+    "department": "Quality Assurance",
+    "branch": "Scranton"
   },
   {
     "id": 9,
     "name": "Darryl Philbin",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/darrylPhilbin.jpg",
+    "email": "dphilbin@dundermifflin.com",
+    "department": "Warehouse Management",
+    "branch": "Scranton"
   },
   {
     "id": 10,
     "name": "Kevin Malone",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/kevinMalone.jpg",
+    "email": "kmalone@dundermifflin.com",
+    "department": "Accounting",
+    "branch": "Scranton"
   },
   {
     "id": 11,
     "name": "Stanley Hudson",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/stanleyHudson.jpg",
+    "email": "shudson@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 12,
     "name": "Phyllis Vance",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/phyllisVance.jpg",
+    "email": "pvance@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 13,
     "name": "Oscar Martinez",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/oscarMartinez.jpg",
+    "email": "omartinez@dundermifflin.com",
+    "department": "Accounting",
+    "branch": "Scranton"
   },
   {
     "id": 14,
     "name": "Meredith Palmer",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/meredithPalmer.jpg",
+    "email": "mpalmer@dundermifflin.com",
+    "department": "Supplier Relations",
+    "branch": "Scranton"
   },
   {
     "id": 15,
     "name": "Angela Martin",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/angelaMartin.jpg",
+    "email": "amartin@dundermifflin.com",
+    "department": "Accounting",
+    "branch": "Scranton"
   },
   {
     "id": 16,
     "name": "Andrew Bernard",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/andyBernard.jpg",
+    "email": "abernard@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 17,
     "name": "Erin Hannon",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/erinHannon.jpg",
+    "email": "ehannon@dundermifflin.com",
+    "department": "Reception",
+    "branch": "Scranton"
   },
   {
     "id": 18,
-    "name": "Holly Flax",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Hollis Flax",
+    "image": "public/employeePhotos/hollyFlax.jpg",
+    "email": "hflax@dundermifflin.com",
+    "department": "Human Resources",
+    "branch": "Nashua"
   },
   {
     "id": 19,
-    "name": "Jan Levinson Gould",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Janet Levinson-Gould",
+    "image": "public/employeePhotos/janLevinson.jpg",
+    "email": "jlevinson@dundermifflin.com",
+    "department": "Vice President of Northeastern Sales",
+    "branch": "Northeast Region"
   },
   {
     "id": 20,
     "name": "Roy Anderson",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/royAnderson.jpg",
+    "email": "randerson@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 21,
-    "name": "Nellie Bertram",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Helen Bertram",
+    "image": "public/employeePhotos/nellieBertram.jpg",
+    "email": "nbartram@dundermifflin.com",
+    "department": "Special Projects",
+    "branch": "Scranton"
   },
   {
     "id": 22,
-    "name": "Pete Miller",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Peter Miller",
+    "image": "public/employeePhotos/peteMiller.jpg",
+    "email": "pmiller@dundermifflin.com",
+    "department": "Customer Service",
+    "branch": "Scranton"
   },
   {
     "id": 23,
     "name": "Robert California",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/robertCalifornia.jpg",
+    "email": "rcalifornia@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Scranton"
   },
   {
     "id": 24,
     "name": "Hunter Raymond",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/hunterRaymond.jpg",
+    "email": "hraymond@dundermifflin.com",
+    "department": "Office Administration",
+    "branch": "New York City"
   },
   {
     "id": 25,
     "name": "Todd Packer",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/toddPacker.jpg",
+    "email": "tpacker@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Scranton"
   },
   {
     "id": 26,
     "name": "Clark Green",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/clarkGreen.jpg",
+    "email": "cgreen@dundermifflin.com",
+    "department": "Customer Service",
+    "branch": "Scranton"
   },
   {
     "id": 27,
     "name": "Alan Brand",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/alanBrand.jpg",
+    "email": "abrand@dundermifflin.com",
+    "department": "CEO",
+    "branch": "New York City"
   },
   {
     "id": 28,
     "name": "Charles Miner",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/charlesMiner.jpg",
+    "email": "cminer@dundermifflin.com",
+    "department": "Vice President of Northeastern Sales",
+    "branch": "Northeast Region"
   },
   {
     "id": 29,
     "name": "Deangelo Vickers",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/deangeloJeremitriusVickers.jpg",
+    "email": "dvickers@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Scranton"
   },
   {
     "id": 30,
     "name": "Catherine Simms",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/cathySimms.jpg",
+    "email": "csimms@dundermifflin.com",
+    "department": "Temping Agency",
+    "branch": "Scranton"
   },
   {
     "id": 31,
     "name": "Ed Truck",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/edTruck.jpg",
+    "email": "etruck@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Scranton"
   },
   {
     "id": 32,
-    "name": "Hannah Smoterich",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Hannah Smoterich-Barr",
+    "image": "public/employeePhotos/hannahSmoterichBarr.jpg",
+    "email": "hsmoterichbarr@dundermifflin.com",
+    "department": "Accounting",
+    "branch": "Stamford"
   },
   {
     "id": 33,
     "name": "Harry Jannerone",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/harryJannerone.jpg",
+    "email": "hjannerone@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Syracuse"
   },
   {
     "id": 34,
     "name": "Val Johnson",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/valJohnson.jpg",
+    "email": "vjohnson@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 35,
     "name": "Tony Gardner",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/tonyGardner.jpg",
+    "email": "tgardner@dundermifflin.com",
+    "department": "Sales",
+    "branch": "Stamford"
   },
   {
     "id": 36,
     "name": "Martin Nash",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/martinNash.jpg",
+    "email": "mnash@dundermifflin.com",
+    "department": "Supplier Relations",
+    "branch": "Stamford"
   },
   {
     "id": 37,
     "name": "Louanne Kelley",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/louanneKelley.jpg",
+    "email": "lkelley@dundermifflin.com",
+    "department": "Human Resources",
+    "branch": "Scranton"
   },
   {
     "id": 38,
     "name": "Karen Filippelli",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/karenFilippelli.jpg",
+    "email": "kfilippelli@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Utica"
   },
   {
     "id": 39,
     "name": "Nate Nickerson",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/nateNickerson.jpg",
+    "email": "nnickerson@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 40,
     "name": "Joshua Porter",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/joshuaPorter.jpg",
+    "email": "jporter@dundermifflin.com",
+    "department": "Operations Management",
+    "branch": "Stamford"
   },
   {
     "id": 41,
     "name": "Jolene Bennett",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/joleneBennett.jpg",
+    "email": "jbennett@sabre.com",
+    "department": "CEO",
+    "branch": "Tallahassee"
   },
   {
     "id": 42,
     "name": "Hidetoshi Hasagawa",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/hidetoshiHasagawa.jpg",
+    "email": "hhasagawa@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 43,
     "name": "Jerry DiCanio",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/jerryDiCanio.jpg",
+    "email": "jdicanio@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 44,
     "name": "Jordan Garfield",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/jordanGarfield.jpg",
+    "email": "jgarfield@dundermifflin.com",
+    "department": "Office Administration",
+    "branch": "Scranton"
   },
   {
     "id": 45,
     "name": "Madge Madsen",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/madgeMadsen.jpg",
+    "email": "mmadsen@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 46,
     "name": "Lonny Collins",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "image": "public/employeePhotos/lonnyCollins.jpg",
+    "email": "lcollins@dundermifflin.com",
+    "department": "Warehousing",
+    "branch": "Scranton"
   },
   {
     "id": 47,
-    "name": "Gabe Lewis",
-    "image": "",
-    "email": "",
-    "department": "",
-    "branch": ""
+    "name": "Gabriel Lewis",
+    "image": "public/employeePhotos/gabeLewis.jpg",
+    "email": "glewis@sabre.com",
+    "department": "Marketing",
+    "branch": "Scranton"
+  },
+  {
+    "id": 48,
+    "name": "David Wallace",
+    "image": "public/employeePhotos/davidWallace.jpg",
+    "email": "dwallace@dundermifflin.com",
+    "department": "CFO",
+    "branch": "New York City"
   }
 ]
