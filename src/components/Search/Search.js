@@ -7,8 +7,14 @@ function Search(props) {
         <span id="directoryTitle">EMPLOYEE DIRECTORY</span>
         <div>
         <form className="form-inline float-right my-2 my-lg-0" id="searchItems">
-        <input className="form-control mr-sm-2" type="search" placeholder="Employee Name" aria-label="Search"/>
-        <button className="btn btn-outline-success my-2 my-sm-0" id="searchButton" type="submit">SEARCH</button>
+        <input
+        onChange={props.handleInputChange}
+        value={props.value}
+        className="form-control mr-sm-2" 
+        type="search" 
+        placeholder="Employee Name" 
+        aria-label="Search"/>
+        <button onClick={props.handleFormSubmit} className="btn btn-outline-light my-2 my-sm-0" id="searchButton" type="submit">SEARCH</button>
         </form>
         </div>
         </nav>

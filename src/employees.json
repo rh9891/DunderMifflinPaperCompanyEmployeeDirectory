@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Michael Scott",
-    "image": "public/employeePhotos/michaelScott",
+    "image": "employeePhotos/michaelScott.jpg",
     "email": "mscott@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Scranton"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Dwight Schrute",
-    "image": "public/employeePhotos/dwightSchrute.jpg",
+    "image": "employeePhotos/dwightSchrute.jpg",
     "email": "dschrute@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "James Halpert",
-    "image": "public/employeePhotos/jimHalpert.jpg",
+    "image": "employeePhotos/jimHalpert.jpg",
     "email": "jhalpert@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Pamela Beesly",
-    "image": "public/employeePhotos/pamBeesly.jpg",
+    "image": "employeePhotos/pamBeesly.jpg",
     "email": "pbeesly@dundermifflin.com",
     "department": "Reception",
     "branch": "Scranton"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Kelly Kapoor",
-    "image": "public/employeePhotos/kellyKapoor.jpg",
+    "image": "employeePhotos/kellyKapoor.jpg",
     "email": "kkapoor@dundermifflin.com",
     "department": "Customer Service",
     "branch": "Scranton"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Ryan Howard",
-    "image": "public/employeePhotos/ryanHoward.jpg",
+    "image": "employeePhotos/ryanHoward.jpg",
     "email": "rhoward@dundermifflin.com",
     "department": "Temping Agency",
     "branch": "Scranton"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Toby Flenderson",
-    "image": "public/employeePhotos/tobyFlenderson.jpg",
+    "image": "employeePhotos/tobyFlenderson.jpg",
     "email": "tflenderson@dundermifflin.com",
     "department": "Human Resources",
     "branch": "Scranton"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Creed Bratton",
-    "image": "public/employeePhotos/creedBratton.jpg",
+    "image": "employeePhotos/creedBratton.jpg",
     "email": "cbratton@dundermifflin.com",
     "department": "Quality Assurance",
     "branch": "Scranton"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "Darryl Philbin",
-    "image": "public/employeePhotos/darrylPhilbin.jpg",
+    "image": "employeePhotos/darrylPhilbin.jpg",
     "email": "dphilbin@dundermifflin.com",
     "department": "Warehouse Management",
     "branch": "Scranton"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "name": "Kevin Malone",
-    "image": "public/employeePhotos/kevinMalone.jpg",
+    "image": "employeePhotos/kevinMalone.jpg",
     "email": "kmalone@dundermifflin.com",
     "department": "Accounting",
     "branch": "Scranton"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Stanley Hudson",
-    "image": "public/employeePhotos/stanleyHudson.jpg",
+    "image": "employeePhotos/stanleyHudson.jpg",
     "email": "shudson@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "name": "Phyllis Vance",
-    "image": "public/employeePhotos/phyllisVance.jpg",
+    "image": "employeePhotos/phyllisVance.jpg",
     "email": "pvance@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "name": "Oscar Martinez",
-    "image": "public/employeePhotos/oscarMartinez.jpg",
+    "image": "employeePhotos/oscarMartinez.jpg",
     "email": "omartinez@dundermifflin.com",
     "department": "Accounting",
     "branch": "Scranton"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "name": "Meredith Palmer",
-    "image": "public/employeePhotos/meredithPalmer.jpg",
+    "image": "employeePhotos/meredithPalmer.jpg",
     "email": "mpalmer@dundermifflin.com",
     "department": "Supplier Relations",
     "branch": "Scranton"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "name": "Angela Martin",
-    "image": "public/employeePhotos/angelaMartin.jpg",
+    "image": "employeePhotos/angelaMartin.jpg",
     "email": "amartin@dundermifflin.com",
     "department": "Accounting",
     "branch": "Scranton"
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "name": "Andrew Bernard",
-    "image": "public/employeePhotos/andyBernard.jpg",
+    "image": "employeePhotos/andyBernard.jpg",
     "email": "abernard@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "name": "Erin Hannon",
-    "image": "public/employeePhotos/erinHannon.jpg",
+    "image": "employeePhotos/erinHannon.jpg",
     "email": "ehannon@dundermifflin.com",
     "department": "Reception",
     "branch": "Scranton"
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "name": "Hollis Flax",
-    "image": "public/employeePhotos/hollyFlax.jpg",
+    "image": "employeePhotos/hollyFlax.jpg",
     "email": "hflax@dundermifflin.com",
     "department": "Human Resources",
     "branch": "Nashua"
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "name": "Janet Levinson-Gould",
-    "image": "public/employeePhotos/janLevinson.jpg",
+    "image": "employeePhotos/janLevinson.jpg",
     "email": "jlevinson@dundermifflin.com",
     "department": "Vice President of Northeastern Sales",
     "branch": "Northeast Region"
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "name": "Roy Anderson",
-    "image": "public/employeePhotos/royAnderson.jpg",
+    "image": "employeePhotos/royAnderson.jpg",
     "email": "randerson@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "name": "Helen Bertram",
-    "image": "public/employeePhotos/nellieBertram.jpg",
+    "image": "employeePhotos/nellieBertram.jpg",
     "email": "nbartram@dundermifflin.com",
     "department": "Special Projects",
     "branch": "Scranton"
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "name": "Peter Miller",
-    "image": "public/employeePhotos/peteMiller.jpg",
+    "image": "employeePhotos/peteMiller.jpg",
     "email": "pmiller@dundermifflin.com",
     "department": "Customer Service",
     "branch": "Scranton"
@@ -178,7 +178,7 @@
   {
     "id": 23,
     "name": "Robert California",
-    "image": "public/employeePhotos/robertCalifornia.jpg",
+    "image": "employeePhotos/robertCalifornia.jpg",
     "email": "rcalifornia@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Scranton"
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "name": "Hunter Raymond",
-    "image": "public/employeePhotos/hunterRaymond.jpg",
+    "image": "employeePhotos/hunterRaymond.jpg",
     "email": "hraymond@dundermifflin.com",
     "department": "Office Administration",
     "branch": "New York City"
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "name": "Todd Packer",
-    "image": "public/employeePhotos/toddPacker.jpg",
+    "image": "employeePhotos/toddPacker.jpg",
     "email": "tpacker@dundermifflin.com",
     "department": "Sales",
     "branch": "Scranton"
@@ -202,7 +202,7 @@
   {
     "id": 26,
     "name": "Clark Green",
-    "image": "public/employeePhotos/clarkGreen.jpg",
+    "image": "employeePhotos/clarkGreen.jpg",
     "email": "cgreen@dundermifflin.com",
     "department": "Customer Service",
     "branch": "Scranton"
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "name": "Alan Brand",
-    "image": "public/employeePhotos/alanBrand.jpg",
+    "image": "employeePhotos/alanBrand.jpg",
     "email": "abrand@dundermifflin.com",
     "department": "CEO",
     "branch": "New York City"
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "name": "Charles Miner",
-    "image": "public/employeePhotos/charlesMiner.jpg",
+    "image": "employeePhotos/charlesMiner.jpg",
     "email": "cminer@dundermifflin.com",
     "department": "Vice President of Northeastern Sales",
     "branch": "Northeast Region"
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "name": "Deangelo Vickers",
-    "image": "public/employeePhotos/deangeloJeremitriusVickers.jpg",
+    "image": "employeePhotos/deangeloJeremitriusVickers.jpg",
     "email": "dvickers@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Scranton"
@@ -234,7 +234,7 @@
   {
     "id": 30,
     "name": "Catherine Simms",
-    "image": "public/employeePhotos/cathySimms.jpg",
+    "image": "employeePhotos/cathySimms.jpg",
     "email": "csimms@dundermifflin.com",
     "department": "Temping Agency",
     "branch": "Scranton"
@@ -242,7 +242,7 @@
   {
     "id": 31,
     "name": "Ed Truck",
-    "image": "public/employeePhotos/edTruck.jpg",
+    "image": "employeePhotos/edTruck.jpg",
     "email": "etruck@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Scranton"
@@ -250,7 +250,7 @@
   {
     "id": 32,
     "name": "Hannah Smoterich-Barr",
-    "image": "public/employeePhotos/hannahSmoterichBarr.jpg",
+    "image": "employeePhotos/hannahSmoterichBarr.jpg",
     "email": "hsmoterichbarr@dundermifflin.com",
     "department": "Accounting",
     "branch": "Stamford"
@@ -258,7 +258,7 @@
   {
     "id": 33,
     "name": "Harry Jannerone",
-    "image": "public/employeePhotos/harryJannerone.jpg",
+    "image": "employeePhotos/harryJannerone.jpg",
     "email": "hjannerone@dundermifflin.com",
     "department": "Sales",
     "branch": "Syracuse"
@@ -266,7 +266,7 @@
   {
     "id": 34,
     "name": "Val Johnson",
-    "image": "public/employeePhotos/valJohnson.jpg",
+    "image": "employeePhotos/valJohnson.jpg",
     "email": "vjohnson@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -274,7 +274,7 @@
   {
     "id": 35,
     "name": "Tony Gardner",
-    "image": "public/employeePhotos/tonyGardner.jpg",
+    "image": "employeePhotos/tonyGardner.jpg",
     "email": "tgardner@dundermifflin.com",
     "department": "Sales",
     "branch": "Stamford"
@@ -282,7 +282,7 @@
   {
     "id": 36,
     "name": "Martin Nash",
-    "image": "public/employeePhotos/martinNash.jpg",
+    "image": "employeePhotos/martinNash.jpg",
     "email": "mnash@dundermifflin.com",
     "department": "Supplier Relations",
     "branch": "Stamford"
@@ -290,7 +290,7 @@
   {
     "id": 37,
     "name": "Louanne Kelley",
-    "image": "public/employeePhotos/louanneKelley.jpg",
+    "image": "employeePhotos/louanneKelley.jpg",
     "email": "lkelley@dundermifflin.com",
     "department": "Human Resources",
     "branch": "Scranton"
@@ -298,7 +298,7 @@
   {
     "id": 38,
     "name": "Karen Filippelli",
-    "image": "public/employeePhotos/karenFilippelli.jpg",
+    "image": "employeePhotos/karenFilippelli.jpg",
     "email": "kfilippelli@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Utica"
@@ -306,7 +306,7 @@
   {
     "id": 39,
     "name": "Nate Nickerson",
-    "image": "public/employeePhotos/nateNickerson.jpg",
+    "image": "employeePhotos/nateNickerson.jpg",
     "email": "nnickerson@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -314,7 +314,7 @@
   {
     "id": 40,
     "name": "Joshua Porter",
-    "image": "public/employeePhotos/joshuaPorter.jpg",
+    "image": "employeePhotos/joshuaPorter.jpg",
     "email": "jporter@dundermifflin.com",
     "department": "Operations Management",
     "branch": "Stamford"
@@ -322,7 +322,7 @@
   {
     "id": 41,
     "name": "Jolene Bennett",
-    "image": "public/employeePhotos/joleneBennett.jpg",
+    "image": "employeePhotos/joleneBennett.jpg",
     "email": "jbennett@sabre.com",
     "department": "CEO",
     "branch": "Tallahassee"
@@ -330,7 +330,7 @@
   {
     "id": 42,
     "name": "Hidetoshi Hasagawa",
-    "image": "public/employeePhotos/hidetoshiHasagawa.jpg",
+    "image": "employeePhotos/hidetoshiHasagawa.jpg",
     "email": "hhasagawa@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -338,7 +338,7 @@
   {
     "id": 43,
     "name": "Jerry DiCanio",
-    "image": "public/employeePhotos/jerryDiCanio.jpg",
+    "image": "employeePhotos/jerryDiCanio.jpg",
     "email": "jdicanio@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -346,7 +346,7 @@
   {
     "id": 44,
     "name": "Jordan Garfield",
-    "image": "public/employeePhotos/jordanGarfield.jpg",
+    "image": "employeePhotos/jordanGarfield.jpg",
     "email": "jgarfield@dundermifflin.com",
     "department": "Office Administration",
     "branch": "Scranton"
@@ -354,7 +354,7 @@
   {
     "id": 45,
     "name": "Madge Madsen",
-    "image": "public/employeePhotos/madgeMadsen.jpg",
+    "image": "employeePhotos/madgeMadsen.jpg",
     "email": "mmadsen@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -362,7 +362,7 @@
   {
     "id": 46,
     "name": "Lonny Collins",
-    "image": "public/employeePhotos/lonnyCollins.jpg",
+    "image": "employeePhotos/lonnyCollins.jpg",
     "email": "lcollins@dundermifflin.com",
     "department": "Warehousing",
     "branch": "Scranton"
@@ -370,7 +370,7 @@
   {
     "id": 47,
     "name": "Gabriel Lewis",
-    "image": "public/employeePhotos/gabeLewis.jpg",
+    "image": "employeePhotos/gabeLewis.jpg",
     "email": "glewis@sabre.com",
     "department": "Marketing",
     "branch": "Scranton"
@@ -378,7 +378,7 @@
   {
     "id": 48,
     "name": "David Wallace",
-    "image": "public/employeePhotos/davidWallace.jpg",
+    "image": "employeePhotos/davidWallace.jpg",
     "email": "dwallace@dundermifflin.com",
     "department": "CFO",
     "branch": "New York City"
