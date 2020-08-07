@@ -4,27 +4,28 @@ import TableData from "../TableData/TableData";
 import employees from "../../employees.json"
 
 function Table(props) {
+
     return (
         <table className="table table-striped table-hover table-dark">
             <thead>
                 <tr>
                 <th scope="col"></th>
                 <th scope="col">Name</th>
-                <th scope="col">Email</th>
-                <th scope="col">Department</th>
-                <th scope="col">Branch</th>
+                <th scope="col"><i className="fas fa-envelope-open-text"></i> Email</th>
+                <th scope="col"><i className="far fa-building"></i> Department</th>
+                <th scope="col"><i className="fas fa-city"></i> Branch</th>
                 </tr>
             </thead>
             <tbody>
-                {employees.map(employee => (
+                {employees.map(employee =>
                 <TableData
-                    // id={employee.id}
                     key={employee.id}
+                    id={employee.id}
                     image={employee.image}
                     name={employee.name}
                     email={employee.email}
                     department={employee.department}
-                    branch={employee.branch} />))}
+                    branch={employee.branch} />)}
             </tbody>
         </table>
     )

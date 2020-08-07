@@ -8,16 +8,14 @@ function Search(props) {
         <div>
         <form className="form-inline float-right my-2 my-lg-0" id="searchItems">
         <input
-        onChange={props.handleInputChange}
-        value={props.value}
         name="search"
         id="employees"
         className="form-control mr-sm-2" 
-        type="search" 
+        type="text" 
         placeholder="Employee Name" 
         aria-label="Search"/>
         <button 
-        onClick={props.handleSearch} 
+        onClick={props.handleSearch}
         className="btn btn-outline-light my-2 my-sm-0" 
         id="searchButton" 
         type="submit">SEARCH</button>
