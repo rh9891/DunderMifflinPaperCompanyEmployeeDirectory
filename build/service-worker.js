@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DunderMifflinPaperCompanyEmployeeDirectory/precache-manifest.1c6ac5bc439d3af617759727b7ae64e2.js"
+  "/DunderMifflinPaperCompanyEmployeeDirectory/precache-manifest.b5470004e6e5f83b3a7c4d3798fc073a.js"
 );
 
 self.addEventListener('message', (event) => {

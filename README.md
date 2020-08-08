@@ -8,7 +8,6 @@
 *  [Features of the Application](#features-of-the-application)
 *  [Preview of the Dunder Mifflin Paper Company Employee Directory](#preview-of-the-dunder-mifflin-paper-company-employee-directory)
 *  [Links](#links)
-*  [Installation](#installation)
 *  [Usage](#usage)
 *  [License](#license)
 *  [Contributing](#contributing)
@@ -16,7 +15,9 @@
 
 ## Description
 
-The application utilizes React, a Javascript library, to create the directory and required the breakdown of the application's UI into components, managing the component state, and responding to user events.
+The Dunder Mifflin Paper Company Employee Directory is an application where a user can easily and quickly access information for any Dunder Mifflin employee. The user can do a filtered search by inputting the employee name into the search bar, which will retrieve any matching results and display that employee's non-sensitive information. The Dunder Mifflin Paper Company Employee Directory also has an extensive sort functionality, which means that the user can also view the employee information by clicking on the different categories (employee name, email address, department, and branch) to view the employee information in both ascending and descending order
+
+The Dunder Mifflin Paper Company Employee Directory utilizes React, a Javascript library, to build the application. The application also required the breakdown of the user interface into components, managing the component state, and responding to user events.
 
 ## User Story
 ~~~
@@ -31,14 +32,16 @@ GIVEN an employee directory
 WHEN I load the page  
 THEN a table of employees should render.  
 
-WHEN I click on a category (name, phone number, email, etc.)  
+WHEN I click on a category (employee name, email address, department, etc.)  
 THEN I should be able to sort the employees by that category.  
 
-WHEN I input a property into the search engine,  
+WHEN I input an employee name into the search engine,  
 THEN I should be able to filter the employees by that property.  
 ~~~
 
 ## Preview of the Dunder Mifflin Paper Company Employee Directory
+
+![Dunder Mifflin Paper Company Employee Directory Homepage](assets/images/employeeDirectoryHomepage.png)
 
 The following animation demonstrates the complete application functionality:
 
@@ -50,12 +53,9 @@ The following animation demonstrates the complete application functionality:
 
 2. [Github Repository](https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory)
 
-## Installation
-
-
 ## Usage
 
-The application can be initiated by inserting `npm start` into the command line interface and running the application on `localhost: 3000`.
+The application can be initiated by inputting `npm start` into the command line interface and running the application on `localhost: 3000`.
 
 ## License
 
