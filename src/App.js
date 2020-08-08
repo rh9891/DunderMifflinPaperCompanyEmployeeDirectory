@@ -17,6 +17,9 @@ function App() {
 
   const [sortEmail, setEmail] = useState("");
 
+  const [sortDepartment, setDepartment] = useState("");
+
+
   const searchEmployee = event => {
     const filtered = employees.every.filter(({ name }) => 
       name.toLowerCase().includes(event.target.value.toLowerCase()));
@@ -69,11 +72,34 @@ function App() {
     })
 }
 
+const sortByDepartment = () => {
+  let sortedDepartments = employees.filtered.sort(( a, b ) => {
+    const departmentA = a.department;
+    const departmentB = b.department;
+
+    let comparison = 0
+    if (departmentA > departmentB) {
+      comparison = 1 
+    } else if (departmentA < departmentB) {
+      comparison = -1
+    } return comparison
+  })
+  if (sortDepartment === "DESC") {
+      sortedDepartments.reverse();
+      setDepartment("ASC")
+  } else {
+    setDepartment("DESC")
+  }
+  setEmployees({
+    ...employees, sortedDepartments
+  })
+}
+
     return (
       <Wrapper>
       <Header></Header>
       <Search handleSearch={searchEmployee}></Search>
-      <Table employees={employees.filtered} sortByName={sortByName} sortByEmail={sortByEmail}></Table>
+      <Table employees={employees.filtered} sortByName={sortByName} sortByEmail={sortByEmail} sortByDepartment={sortByDepartment}></Table>
       </Wrapper>
     );
 }
