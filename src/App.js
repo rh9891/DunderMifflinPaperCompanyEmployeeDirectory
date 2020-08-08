@@ -22,7 +22,7 @@ function App() {
       <Wrapper>
       <Header></Header>
       <Search handleSearch={searchEmployee}></Search>
-      <Table></Table>
+      <Table employees={employees.filtered}></Table>
       </Wrapper>
     );
 }

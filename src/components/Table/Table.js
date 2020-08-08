@@ -1,7 +1,7 @@
 import React from "react";
 import "./table.css";
 import TableData from "../TableData/TableData";
-import employees from "../../employees.json"
+// import employees from "../../employees.json"
 
 function Table(props) {
 
@@ -17,7 +17,7 @@ function Table(props) {
                 </tr>
             </thead>
             <tbody>
-                {employees.map(employee =>
+                {props.employees.map(employee =>
                 <TableData
                     key={employee.id}
                     id={employee.id}

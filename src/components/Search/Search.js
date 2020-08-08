@@ -12,13 +12,13 @@ function Search(props) {
         id="employees"
         className="form-control mr-sm-2" 
         type="text" 
+        onChange={props.handleSearch}
         placeholder="Employee Name" 
         aria-label="Search"/>
-        <button 
-        onClick={props.handleSearch}
+        {/* <button 
         className="btn btn-outline-light my-2 my-sm-0" 
         id="searchButton" 
-        type="submit">SEARCH</button>
+        type="submit">SEARCH</button> */}
         </form>
         </div>
         </nav>
