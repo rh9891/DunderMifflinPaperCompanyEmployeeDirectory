@@ -4,4 +4,9 @@
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-color: black;
+    display: flex;
+    text-align: center;
+    background-position: center;
+    width: 100%;
+    background-size: contain;
 }
