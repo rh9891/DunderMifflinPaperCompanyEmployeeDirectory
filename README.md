@@ -43,9 +43,13 @@ THEN I should be able to filter the employees by that property.
 
 ![Dunder Mifflin Paper Company Employee Directory Homepage](assets/images/employeeDirectoryHomepage.png)
 
-The following animation demonstrates the complete application functionality:
+The following animation demonstrates the application's search functionality:
 
-![Dunder Mifflin Paper Company Employee Directory Preview]()
+![Dunder Mifflin Paper Company Employee Directory Search Functionality]()
+
+The following animation demonstrates the application's sort functionality:
+
+![Dunder Mifflin Paper Company Employee Directory Sort Functionality]()
 
 ## Links
 
