@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DunderMifflinPaperCompanyEmployeeDirectory/static/css/main.ef6a13a6.chunk.css",
+    "main.js": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/main.da0436e3.chunk.js",
+    "main.js.map": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/main.da0436e3.chunk.js.map",
+    "runtime-main.js": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/runtime-main.6d8deb70.js",
+    "runtime-main.js.map": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/runtime-main.6d8deb70.js.map",
+    "static/js/2.a73db2fe.chunk.js": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/2.a73db2fe.chunk.js",
+    "static/js/2.a73db2fe.chunk.js.map": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/2.a73db2fe.chunk.js.map",
+    "index.html": "/DunderMifflinPaperCompanyEmployeeDirectory/index.html",
+    "precache-manifest.1c6ac5bc439d3af617759727b7ae64e2.js": "/DunderMifflinPaperCompanyEmployeeDirectory/precache-manifest.1c6ac5bc439d3af617759727b7ae64e2.js",
+    "service-worker.js": "/DunderMifflinPaperCompanyEmployeeDirectory/service-worker.js",
+    "static/css/main.ef6a13a6.chunk.css.map": "/DunderMifflinPaperCompanyEmployeeDirectory/static/css/main.ef6a13a6.chunk.css.map",
+    "static/js/2.a73db2fe.chunk.js.LICENSE.txt": "/DunderMifflinPaperCompanyEmployeeDirectory/static/js/2.a73db2fe.chunk.js.LICENSE.txt",
+    "static/media/search.css": "/DunderMifflinPaperCompanyEmployeeDirectory/static/media/Impact.8fc622c3.ttf",
+    "static/media/header.css": "/DunderMifflinPaperCompanyEmployeeDirectory/static/media/dunderMifflinLogo.797f33fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8deb70.js",
+    "static/js/2.a73db2fe.chunk.js",
+    "static/css/main.ef6a13a6.chunk.css",
+    "static/js/main.da0436e3.chunk.js"
+  ]
+}

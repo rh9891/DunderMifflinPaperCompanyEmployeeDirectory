@@ -15,10 +15,6 @@ function Search(props) {
         onChange={props.handleSearch}
         placeholder="Insert Employee Name" 
         aria-label="Search"/>
-        {/* <button 
-        className="btn btn-outline-light my-2 my-sm-0" 
-        id="searchButton" 
-        type="submit">SEARCH</button> */}
         </form>
         </div>
         </nav>

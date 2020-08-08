@@ -46,7 +46,7 @@ The following animation demonstrates the complete application functionality:
 
 ## Links
 
-1. [Deployed Application](https://dunder-mifflin-directory.herokuapp.com)
+1. [Deployed Application](https://rh9891.github.io/DunderMifflinPaperCompanyEmployeeDirectory)
 
 2. [Github Repository](https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory)
 

@@ -1,7 +1,5 @@
 import React from "react";
-import "./table.css";
 import TableData from "../TableData/TableData";
-// import employees from "../../employees.json"
 
 function Table(props) {
 
@@ -10,10 +8,9 @@ function Table(props) {
             <thead>
                 <tr>
                 <th scope="col"></th>
-                <th scope="col" onClick={props.sortByName}>Name</th>
-                <th scope="col"><i className="fas fa-envelope-open-text"></i> Email</th>
-                <th scope="col"><i className="far fa-building"></i> Department</th>
-                <th scope="col"><i className="fas fa-city"></i> Branch</th>
+                <th scope="col" onClick={props.sortByName}><i class="fas fa-user-tie"></i> &nbsp;Employee Name</th><th scope="col"><i className="fas fa-envelope-open-text"></i> &nbsp;Email Address</th>
+                <th scope="col"><i className="far fa-building"></i> &nbsp;Department</th>
+                <th scope="col"><i className="fas fa-city"></i> &nbsp;Branch</th>
                 </tr>
             </thead>
             <tbody>
