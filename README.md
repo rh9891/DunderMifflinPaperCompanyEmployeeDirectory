@@ -45,11 +45,11 @@ THEN I should be able to filter the employees by that property.
 
 The following animation demonstrates the application's search functionality:
 
-![Dunder Mifflin Paper Company Employee Directory Search Functionality]()
+![Dunder Mifflin Paper Company Employee Directory Search Functionality](https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory/blob/master/assets/videos/employeeDirectorySearchFunctionality.gif)
 
 The following animation demonstrates the application's sort functionality:
 
-![Dunder Mifflin Paper Company Employee Directory Sort Functionality]()
+![Dunder Mifflin Paper Company Employee Directory Sort Functionality](https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory/blob/master/assets/videos/employeeDirectorySortFunctionality.gif)
 
 ## Links
 
