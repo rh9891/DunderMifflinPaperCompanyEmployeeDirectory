@@ -15,6 +15,8 @@ function App() {
 
   const [sortName, setName] = useState("");
 
+  const [sortEmail, setEmail] = useState("");
+
   const searchEmployee = event => {
     const filtered = employees.every.filter(({ name }) => 
       name.toLowerCase().includes(event.target.value.toLowerCase()));
@@ -44,11 +46,34 @@ function App() {
       })
   }
 
+  const sortByEmail = () => {
+    let sortedEmails = employees.filtered.sort(( a, b ) => {
+      const emailA = a.email;
+      const emailB = b.email;
+
+      let comparison = 0
+      if (emailA > emailB) {
+        comparison = 1 
+      } else if (emailA < emailB) {
+        comparison = -1
+      } return comparison
+    })
+    if (sortEmail === "DESC") {
+        sortedEmails.reverse();
+        setEmail("ASC")
+    } else {
+      setEmail("DESC")
+    }
+    setEmployees({
+      ...employees, sortedEmails
+    })
+}
+
     return (
       <Wrapper>
       <Header></Header>
       <Search handleSearch={searchEmployee}></Search>
-      <Table employees={employees.filtered} sortByName={sortByName}></Table>
+      <Table employees={employees.filtered} sortByName={sortByName} sortByEmail={sortByEmail}></Table>
       </Wrapper>
     );
 }
