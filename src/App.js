@@ -19,6 +19,7 @@ function App() {
 
   const [sortDepartment, setDepartment] = useState("");
 
+  const [sortBranch, setBranch] = useState("");
 
   const searchEmployee = event => {
     const filtered = employees.every.filter(({ name }) => 
@@ -95,11 +96,34 @@ const sortByDepartment = () => {
   })
 }
 
+const sortByBranch = () => {
+  let sortedBranches = employees.filtered.sort(( a, b ) => {
+    const branchA = a.branch;
+    const branchB = b.branch;
+
+    let comparison = 0
+    if (branchA > branchB) {
+      comparison = 1 
+    } else if (branchA < branchB) {
+      comparison = -1
+    } return comparison
+  })
+  if (sortBranch === "DESC") {
+    sortedBranches.reverse();
+      setBranch("ASC")
+  } else {
+    setBranch("DESC")
+  }
+  setEmployees({
+    ...employees, sortedBranches
+  })
+}
+
     return (
       <Wrapper>
       <Header></Header>
       <Search handleSearch={searchEmployee}></Search>
-      <Table employees={employees.filtered} sortByName={sortByName} sortByEmail={sortByEmail} sortByDepartment={sortByDepartment}></Table>
+      <Table employees={employees.filtered} sortByName={sortByName} sortByEmail={sortByEmail} sortByDepartment={sortByDepartment} sortByBranch={sortByBranch}></Table>
       </Wrapper>
     );
 }
