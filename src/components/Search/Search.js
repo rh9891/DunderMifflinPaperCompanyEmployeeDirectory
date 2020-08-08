@@ -13,7 +13,7 @@ function Search(props) {
         className="form-control mr-sm-2 search" 
         type="text" 
         onChange={props.handleSearch}
-        placeholder="Employee Name" 
+        placeholder="Insert Employee Name" 
         aria-label="Search"/>
         {/* <button 
         className="btn btn-outline-light my-2 my-sm-0" 
