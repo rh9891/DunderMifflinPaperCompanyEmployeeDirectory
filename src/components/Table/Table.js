@@ -10,7 +10,7 @@ function Table(props) {
             <thead>
                 <tr>
                 <th scope="col"></th>
-                <th scope="col">Name</th>
+                <th scope="col" onClick={props.sortByName}>Name</th>
                 <th scope="col"><i className="fas fa-envelope-open-text"></i> Email</th>
                 <th scope="col"><i className="far fa-building"></i> Department</th>
                 <th scope="col"><i className="fas fa-city"></i> Branch</th>
