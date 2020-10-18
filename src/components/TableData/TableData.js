@@ -1,4 +1,5 @@
 import React from "react";
+import "./tableData.css";
 
 function TableData({ image, name, email, department, branch }) {
   return (
@@ -6,10 +7,10 @@ function TableData({ image, name, email, department, branch }) {
       <th scope="row">
         <img src={image} alt={name} className="rounded-circle" />
       </th>
-      <td>{name}</td>
-      <td>{email}</td>
-      <td>{department}</td>
-      <td>{branch}</td>
+      <td className="text-center">{name}</td>
+      <td className="text-center">{email}</td>
+      <td className="text-center">{department}</td>
+      <td className="text-center">{branch}</td>
     </tr>
   );
 }

@@ -1,0 +1,83 @@
+@media only screen and (max-width: 800px) {
+  #flip-scroll .cf:after {
+    visibility: hidden !important;
+    display: block !important;
+    font-size: 0 !important;
+    content: " " !important;
+    clear: both !important;
+    height: 0 !important;
+  }
+  #flip-scroll * html .cf {
+    zoom: 1 !important;
+  }
+  #flip-scroll *:first-child + html .cf {
+    zoom: 1 !important;
+  }
+
+  #flip-scroll table {
+    width: 100%;
+    border-collapse: collapse !important;
+    border-spacing: 0 !important;
+  }
+
+  #flip-scroll th,
+  #flip-scroll td {
+    margin: 0 !important;
+    vertical-align: top !important;
+  }
+  #flip-scroll th {
+    text-align: left !important;
+  }
+
+  #flip-scroll table {
+    display: block !important;
+    position: relative !important;
+    width: 100% !important;
+  }
+  #flip-scroll thead {
+    display: block !important;
+    float: left !important;
+  }
+  #flip-scroll tbody {
+    display: block !important;
+    width: auto !important;
+    position: relative !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+  }
+  #flip-scroll thead tr {
+    display: block !important;
+  }
+  #flip-scroll th {
+    display: block !important;
+    text-align: right !important;
+  }
+  #flip-scroll tbody tr {
+    display: inline-block !important;
+    vertical-align: top !important;
+  }
+  #flip-scroll td {
+    display: block !important;
+    min-height: 1.25em !important;
+    text-align: left !important;
+  }
+
+  /* sort out borders */
+
+  #flip-scroll th {
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+  }
+  #flip-scroll td {
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 0 !important;
+  }
+  #flip-scroll tbody tr {
+    border-left: 1px solid #babcbf !important;
+  }
+  #flip-scroll th:last-child,
+  #flip-scroll td:last-child {
+    border-bottom: 1px solid #babcbf !important;
+  }
+}
