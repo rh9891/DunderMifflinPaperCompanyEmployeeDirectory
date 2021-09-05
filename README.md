@@ -58,7 +58,7 @@ To download the above video files of the application functionality, you may do s
 
 ## Links
 
-1. [Deployed Application]()
+1. [Deployed Application](https://dunder-mifflin-directory.herokuapp.com/)
 
 2. [Github Repository](https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory)
 

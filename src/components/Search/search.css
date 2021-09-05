@@ -1,25 +1,25 @@
 @font-face {
-    font-family: "Impact";
-    src: url("./fonts/Impact.ttf");
+  font-family: "Impact";
+  src: url("./fonts/Impact.ttf");
 }
 
 #searchBar {
-    background-color: black !important;
-    justify-content: flex-end;
+  background-color: #b6b4b5 !important;
+  justify-content: flex-end;
 }
 
 #directoryTitle {
-    font-family: Impact;
-    color: white;
-    justify-content: flex-start !important;
+  font-family: Impact;
+  color: white;
+  justify-content: flex-start !important;
 }
 
 #searchButton {
-    font-family: Impact;
-    font-size: 20px;
-    color: white;
+  font-family: Impact;
+  font-size: 20px;
+  color: white;
 }
 
 .search {
-    margin-left: 20px;
+  margin-left: 20px;
 }

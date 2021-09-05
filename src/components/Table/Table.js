@@ -10,7 +10,10 @@ function Table({
   employees,
 }) {
   return (
-    <table className="table table-striped table-hover table-dark">
+    <table
+      className="table table-striped table-hover table-dark"
+      style={{ margin: "0", padding: "0" }}
+    >
       <thead>
         <tr>
           <th className="text-center" scope="col"></th>
